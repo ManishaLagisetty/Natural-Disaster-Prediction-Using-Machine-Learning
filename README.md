@@ -10,6 +10,11 @@ This project focuses on predicting natural disasters using machine learning tech
 ## Abstract
 This Machine Learning project, entitled "Sustainable Futures through Natural Disaster Prediction," embarks on a transformative quest towards promoting heightened resilience and sustainable practices globally. The primary goal of this project is to promote the preservation of sustainability. By employing predictive techniques,strive to reduce the detrimental impact that disasters have on ecosystems, natural resources, and the environment. The objective aligns with worldwide endeavors in addressing climate change. Through machine learning models such as K-means neighbor, Random Forest, Support Vector Machine (SVM), and Naive Bayes are used as early warning indicators, thus facilitating proactive approaches for disaster preparedness and response strategies. By thoroughly analyzing historical data on diverse types of calamities such as earthquakes, hurricanes, floods, and wildfires and by employing feature engineering, and machine learning algorithms, aim is to develop precise prediction models that offer practical insights for effective action. 
 
+<img width="741" alt="Pasted Graphic" src="https://github.com/ManishaLagisetty/Natural-Disaster-Prediction-Using-Machine-Learning/assets/147951099/edb964c7-d910-4d73-ace3-7d884ccb9112">
+
+![image](https://github.com/ManishaLagisetty/Natural-Disaster-Prediction-Using-Machine-Learning/assets/147951099/76a7bf7b-d67b-427e-af73-71bcf07d57e8)
+
+
 #### Technology Stack:
 Languages: Python <br>
 Technology: Machine Learning <br>
