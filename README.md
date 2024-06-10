@@ -1,6 +1,9 @@
 
 # Natural-Disaster-Prediction-Using-Machine-Learning
 
+![DALL·E 2024-06-10 16 03 46 - A simple and clean image representing Natural Disaster Prediction using Machine Learning  The image should include minimalist icons of natural disaste](https://github.com/ManishaLagisetty/Natural-Disaster-Prediction-Using-Machine-Learning/assets/147951099/a3453f80-4973-4d50-a84e-c41f9ba7c5a0)
+
+
 ## Description
 This project focuses on predicting natural disasters using machine learning techniques. It includes data collection, preprocessing, model development, evaluation, tuning, and ensemble techniques.
 
